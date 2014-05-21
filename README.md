@@ -1,4 +1,4 @@
-C_Python_Swig_Sample
-====================
+This directory is the starting point for illustrating some basic Swig features.
 
-An example of using C functions in python using swig 
+The file build.sh builds the Swig extension using distutils.  All modules
+will be built and placed into the current directory.
